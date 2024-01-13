@@ -1,15 +1,15 @@
 # stack-chan_cardbord_patternV3
- Cardbord pattern papaer V2 for Stack-chan
+ Cardbord pattern papaer V3 for Stack-chan
 
 # 概要
 
 　ダンボールでｽﾀｯｸﾁｬﾝを作るための型紙（写真左）です。ｽﾀｯｸﾁｬﾝ誕生日会2023で配布したものになります。
-![Stack-chan_Cardboad_Pattern_V2](images/stack-chan_cardbord_patternV2.jpg)
+![Stack-chan_Cardboad_Pattern_V3](images/stack-chan_cardbord_patternV3.jpg)
 
 # 型紙
 pdfフォルダ内にあります。 
 
-[Stack-chan_Cardboad_PatternV2.pdf](pdf/stack-chan_cardbord_patternV2.pdf)
+[Stack-chan_Cardboad_PatternV3.pdf](pdf/stack-chan_cardbord_patternV3.pdf)
 
 # 使用するダンボール
 1㎜強の厚みのダンボールを想定しています。
@@ -21,7 +21,7 @@ pdfフォルダ内にあります。
 
 # 作り方
 下記ページとなります。  
-[note「ダンボール #ｽﾀｯｸﾁｬﾝ 作り方」](https://note.com/syumme/n/naa6db8b47bbd)
+[ダンボール＃ｽﾀｯｸﾁｬﾝV3(ブイ スリャァァァ)](https://note.com/syumme/n/ncdc4fd9133be)
 
 # 参考にしたリポジトリ
 - [stack-chan](https://github.com/meganetaaan/stack-chan)
