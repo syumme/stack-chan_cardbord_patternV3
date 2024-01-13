@@ -3,7 +3,7 @@
 
 # 概要
 
-　ダンボールでｽﾀｯｸﾁｬﾝを作るための型紙（写真左）です。Hamamatsu Micro Maker Faire 2023の小少創作室ブースで配布したものになります。
+　ダンボールでｽﾀｯｸﾁｬﾝを作るための型紙（写真）です。Hamamatsu Micro Maker Faire 2023の小少創作室ブースで配布したものになります。
 ![Stack-chan_Cardboad_Pattern_V3](stack-chan_cardbord_patternV3.jpg)
 
 # 型紙
