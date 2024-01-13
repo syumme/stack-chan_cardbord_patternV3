@@ -21,7 +21,7 @@ pdfフォルダ内にあります。
 
 # 作り方
 下記ページとなります。  
-[ダンボール＃ｽﾀｯｸﾁｬﾝV3(ブイ スリャァァァ)](https://note.com/syumme/n/ncdc4fd9133be)
+[note「ダンボール＃ｽﾀｯｸﾁｬﾝV3(ブイ スリャァァァ)」](https://note.com/syumme/n/ncdc4fd9133be)
 
 # 参考にしたリポジトリ
 - [stack-chan](https://github.com/meganetaaan/stack-chan)
