@@ -7,9 +7,11 @@
 ![Stack-chan_Cardboad_Pattern_V3](stack-chan_cardbord_patternV3.jpg)
 
 # 型紙
-pdfフォルダ内にあります。 
-
 [Stack-chan_Cardboad_PatternV3.pdf](pdf/stack-chan_cardbord_patternV3.pdf)
+
+pdfフォルダ内にあります。  
+用紙サイズはA4で、倍率は拡大縮小せず等倍（100％）で印刷してお使いください
+
 
 # 使用するダンボール
 1㎜強の厚みのダンボールを想定しています。
